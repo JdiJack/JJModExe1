@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=south": { 
+            "model":"jjexe1:block_scaletta" 
+        },
+		"facing=west": { 
+            "model":"jjexe1:block_scaletta", "y": 90
+        },
+		"facing=north": { 
+            "model":"jjexe1:block_scaletta", "y": 180
+        },
+		"facing=east": { 
+            "model":"jjexe1:block_scaletta", "y": 270
+        }
+    }
+}

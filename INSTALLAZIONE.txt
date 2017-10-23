@@ -1,0 +1,5 @@
+gradlew setupDecompWorkspace eclipse
+
+
+compila la mod
+gradlew.bat build
